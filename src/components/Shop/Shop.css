@@ -1,0 +1,13 @@
+.product-container{
+    display: flex;
+    gap: 70px;
+}
+
+
+.product-list{
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px
+}
+

@@ -1,0 +1,26 @@
+.header img{
+    height: 80px;
+}
+
+nav {
+    background: #000;
+    padding: 0 40px;
+    display: flex;
+    column-gap: 20px;
+    border-radius: 5px;
+}
+
+nav a {
+    padding: 7px 15px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    font-family: sans-serif;
+    text-transform: capitalize;
+    transition: all .3s ease;
+}
+
+nav a:hover {
+    background: #ff9800;
+    color: #000;
+}
